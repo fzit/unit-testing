@@ -6,4 +6,5 @@ https://github.com/zhaotoday/react-pure
 
 ## 参考
 https://github.com/xwartz/webpack-karma-mocha  
-http://www.cnblogs.com/haogj/p/5209743.html
+http://www.cnblogs.com/haogj/p/5209743.html  
+https://segmentfault.com/a/1190000004283830
